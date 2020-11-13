@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfire-47f0b": {
+      "hosting": {
+        "AngularFire": [
+          "angularfire-47f0b"
+        ]
+      }
+    }
+  }
+}
